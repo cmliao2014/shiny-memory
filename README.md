@@ -1,2 +1,4 @@
 # shiny-memory
-hello-world
+
+Hi humans
+Let's study together.
